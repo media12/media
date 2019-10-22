@@ -15,4 +15,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login(حط التوكن هنا);
+client.login(NjEwMzI0MDc3ODE4OTM3MzQ1.Xa59KA.ZYZx42kLdVii4SrofRwSE_1HTtM);
