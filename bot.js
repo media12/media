@@ -3779,7 +3779,7 @@ reaction3.on("collect", r => {
 『-يعطيك عقابات قاسية ====> عقاب
 『 By ====> media#4161
 `)
-   message.author.sendEmbed(embed)
+   message.channel.send(embed)
    message.reply('تم ارسالك بلخاص')
 })
 reaction3.on("collect", r => {
